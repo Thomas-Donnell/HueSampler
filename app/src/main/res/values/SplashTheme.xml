@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="SplashTheme" parent="@style/Theme.HueSampler">
+        <item name="android:windowBackground">@drawable/splash_background</item>
+        <item name="colorPrimary">#202124</item>
+        <item name="colorPrimaryDark">#202124</item>
+        <item name="colorAccent">#202124</item>
+        <item name="android:statusBarColor">#202124</item>
+    </style>
+</resources>
